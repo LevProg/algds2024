@@ -18,7 +18,7 @@ enable_testing()
 
 add_executable(
   homework4sem1
-  hello_test.c
+  homework4sem1.cpp 
 )
 target_link_libraries(
   homework4sem1
